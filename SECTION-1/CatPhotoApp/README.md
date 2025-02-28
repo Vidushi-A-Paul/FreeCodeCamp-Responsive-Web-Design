@@ -25,9 +25,9 @@ CatPhotoApp/
 - FreeCodeCamp Curriculum  
 
 ### **📷 Screenshot**  
-![Screenshot-1](image.png)
-![Screenshot-2](image-1.png)
-![Screenshot-3](image-2.png)
+![Screenshot-1](images/image.png)   
+![Screenshot-2](images/image-1.png)
+![Screenshot-3](images/image-2.png)
 
 ### **📌 How to Use**  
 1. Clone this repository:  
